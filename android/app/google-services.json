@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446096172573",
+    "project_id": "flash-chat-72dde",
+    "storage_bucket": "flash-chat-72dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446096172573:android:5bd621a0c8a732dc9408f4",
+        "android_client_info": {
+          "package_name": "co.eduardogthom.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446096172573-kbobmggf82fes8nj9ttl97qtoe8lo2qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPp6uuMjyRJ0V2WfkaHKtuUhZoPXYOAeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446096172573-kbobmggf82fes8nj9ttl97qtoe8lo2qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
